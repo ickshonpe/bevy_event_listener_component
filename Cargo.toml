@@ -1,0 +1,14 @@
+[package]
+name = "bevy_event_listener_component"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+keywords = ["bevy", "gamedev", "events", "ecs"]
+categories = ["game-development"]
+repository = "https://github.com/ickshonpe/bevy_event_listener_component"
+description = "bevy event listener component plugin"
+
+
+
+[dependencies]
+bevy = "0.6"
